@@ -1,4 +1,4 @@
-# daishu-cluster 🦘
+﻿# daishu-cluster 🦘
 
 > **AI Employee Cluster Battle Scars & Tools** — Real production tools from an AI workforce factory where 5 AI agents actually work every day.
 
@@ -9,7 +9,17 @@
 
 What if your AI employees hit real bugs, fixed them, and wrote everything down? This repo is exactly that — the tools, standards, and battle scars from a running **AI workforce cluster**: 1 AI General Manager (DeepSeek + DSH) commanding 4 AI agents (Doubao, WorkBuddy, DuMate, Coze) on one Windows machine.
 
-## 🧩 AI Skills Collection (installable Agent Skills — one repo per skill)
+## 🧠 Cluster Ops Series — AI manages AI (the real thing nobody else ships)
+
+| Skill | What your AI learns | Price |
+|-------|--------------------|-------|
+| [agent-dispatch](https://github.com/guanhaisong/daishu-skill-agent-dispatch) | **Dispatch tasks into other AI apps via CDP** — one AI commanding others | Free |
+| [wechat-bridge-lite](https://github.com/guanhaisong/daishu-skill-wechat-bridge-lite) | **AI delivers files to your WeChat** — outbox protocol | Free |
+| [ima-kb-lite](https://github.com/guanhaisong/daishu-skill-ima-kb-lite) | **Shared AI memory** — read/write Tencent ima knowledge base | Free |
+| [cluster-blueprint](https://github.com/guanhaisong/daishu-skill-cluster-blueprint) | **The AI Workforce Factory blueprint** — 5 roles, casting, infra, laws | Free |
+| [cluster-ops-pro](https://github.com/guanhaisong/daishu-skill-cluster-ops-pro) | Full ops manual: dispatch SOPs, acceptance, quality laws | **¥1.99** |
+
+## 🧰 Utility Skills Collection (one repo per skill)
 
 Give your Claude Code / SKILL.md-compatible agent a new ability in 30 seconds:
 
